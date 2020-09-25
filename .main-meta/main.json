@@ -3,10 +3,10 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-pwm-constant-on-time-bare",
+        "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-pwm-constant-on-time-mcc",
         "version": "1.0.2",
-        "displayName": "PWM Signal Generation with Constant on-time",
-        "projectName": "pic18f47q10-cnano-pwm-constant-on-time-bare",
+        "displayName": "PWM Signal Generation with Constant on-time (MCC)",
+        "projectName": "pic18f47q10-cnano-pwm-constant-on-time-mcc",
         "shortDescription": "This example describes how to configure the CCP2 peripheral in conjunction with TMR4 to produce a PWM signal with variable frequency and constant on-time. The peripheral drivers were generated using MCC.",
         "ide": {
             "name": "MPLAB X",
@@ -37,7 +37,6 @@
             }
         },
         "author": "Microchip",
-        "subcategories": [
             "Peripherals",
             [
                "Peripherals", "PWM"
